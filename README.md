@@ -2,7 +2,7 @@
 *A github repository to document my 100 days of code*
 
 ## Projects
--[freeCodeCamp Project - Product Landing Page](https://codepen.io/TheFlyer1983/full/GGENJa/)
+- [freeCodeCamp Project - Product Landing Page](https://codepen.io/TheFlyer1983/full/GGENJa/)
 
 ## Daily Log
 
