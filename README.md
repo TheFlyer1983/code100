@@ -15,4 +15,4 @@
 **Day 5:** 22nd June 2018 - Added some more content to the technical documentation. Added a table and applied some styling to the table. Page still not responsive.  
 **Day 6:** 27th June 2018 - Forced to take a break due to no internet access to continue coding. Back to it now. I have completed the Technical Documentation Page, and made it responsive. Submitted it to freeCodeCamp. Also made a start to the final freeCodeCamp Responsive Web Design Project, a portfolio page.  
 **Day 7:** 29th June 2018 - Added some content to the portfolio page project for freeCodeCamp. Making use of the CSS Grid property. Also managed to make the grid collapse properly on the phone resolution.  
-**Day 8:** 2nd July 2017 - Finished the freeCodeCamp portfolio project. Also gained the freeCodeCamp Responsive Web Design Certification.
+**Day 8:** 2nd July 2017 - Finished the freeCodeCamp portfolio project. Also gained the freeCodeCamp Responsive Web Design Certification. Also went over some Javascript Object work on freeCodeCamp.
