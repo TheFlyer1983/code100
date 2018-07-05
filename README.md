@@ -17,3 +17,4 @@
 **Day 7:** 29th June 2018 - Added some content to the portfolio page project for freeCodeCamp. Making use of the CSS Grid property. Also managed to make the grid collapse properly on the phone resolution.  
 **Day 8:** 2nd July 2018 - Finished the freeCodeCamp portfolio project. Also gained the freeCodeCamp Responsive Web Design Certification. Also went over some Javascript Object work on freeCodeCamp.  
 **Day 9:** 3rd July 2018 - Started some Javascript ES6 lessons on freeCodeCamp.
+**Day 10:** 4th July 2018 - Completed the ES6 lessons on freeCodeCamp.
