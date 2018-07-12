@@ -21,3 +21,7 @@
 **Day 11:** 5th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Completed the Regular Expressions and Debugging modules, and started on the Basic Data Structure Module.  
 **Day 12:** 6th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Currently working on Basic Data Structure Module.  
 **Day 13:** 9th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Completed the Basic Data Structure Module, and started on the Basic Algorithm Scriping Module.  
+**Day 14:** 10th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Progressing though the Basic Algorithm Scriping Module.  
+**Day 15:** 11th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Progressing though the Basic Algorithm Scriping Module.  
+**Day 16:** 12th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Progressing though the Basic Algorithm Scriping Module.  
+**Day 17:** 13th July 2018 - Working through the freeCodeCamp syllabus for the Javascript certification. Progressing though the Basic Algorithm Scriping Module.  
